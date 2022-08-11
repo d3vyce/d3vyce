@@ -13,7 +13,7 @@
 <p align="left">
   <a href="https://github.com/d3vyce/Multi-Client-Chat"><img width="270" alt="Multi Client Chat" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=d3vyce&repo=Multi-Client-Chat&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
   <a href="https://github.com/d3vyce/Python-Game"><img width="270" alt="Python Game" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=d3vyce&repo=Python-Game&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
-  <a href="https://github.com/d3vyce/AdventofCode-2021"><img width="270" alt="AdventofCode 2021" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=d3vyce&repo=AdventofCode-2021&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
+  <a href="https://github.com/d3vyce/d3vyce.fr"><img width="270" alt="d3vyce.fr Site" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=d3vyce&repo=d3vyce.fr&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
 </p>
 
 <!-- https://github.com/badges/shields -->
