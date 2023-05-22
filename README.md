@@ -4,7 +4,7 @@
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=DEVELOPER;CTF%20PLAYER;RED%20TEAM&font=sans-serif&center=true&width=350&height=45&color=edbb5f&vCenter=true&size=22" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=DEVELOPER;CTF+PLAYER;DEVOPS" alt="Typing SVG" /></a>
 </p>
 
 ## 📙 My projects
@@ -31,17 +31,17 @@
 ## 🛠️ Programming languages
 <p>
   <a href="#"><img alt="C" src="https://img.shields.io/badge/C-239120?logo=c&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-4053D6?logo=ansible&logoColor=white&style=for-the-badge"></a>
   <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-557C94?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"></a>
-  <a><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"></a>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4053D6?logo=amazon-dynamodb&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"></a>
 </p>
 
 ## 🔗 Links
 <p>
+  <a href="https://d3vyce.fr/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-E34F26?logo=gitbook&logoColor=white&style=for-the-badge"></a>
   <a href="https://www.d3vyce.fr"><img alt="Blog" src="https://img.shields.io/badge/Blog-239120?logo=ghost&logoColor=white&style=for-the-badge"></a>
-  <a href="https://wiki.d3vyce.fr/"><img alt="Wiki" src="https://img.shields.io/badge/Wiki-E34F26?logo=gitbook&logoColor=white&style=for-the-badge"></a>
   <a href="https://twitter.com/d3vyce"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-4053D6?logo=twitter&logoColor=white&style=for-the-badge"></a>
 </p>
