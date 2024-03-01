@@ -42,6 +42,6 @@
 ## 🔗 Links
 <p>
   <a href="https://d3vyce.fr/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-E34F26?logo=gitbook&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.d3vyce.fr"><img alt="Blog" src="https://img.shields.io/badge/Blog-239120?logo=ghost&logoColor=white&style=for-the-badge"></a>
+  <a href="https://blog.d3vyce.fr"><img alt="Blog" src="https://img.shields.io/badge/Blog-239120?logo=hugo&logoColor=white&style=for-the-badge"></a>
   <a href="https://twitter.com/d3vyce"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-4053D6?logo=twitter&logoColor=white&style=for-the-badge"></a>
 </p>
